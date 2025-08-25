@@ -1,2 +1,3 @@
-# bu_research
+# TableEmbeddings
+
 Research Project for Boston University
